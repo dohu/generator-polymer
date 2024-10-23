@@ -133,6 +133,9 @@ The `app` generator will produce an `elements.html` file where you can place you
 
 See the [contributing docs](https://github.com/yeoman/yeoman/blob/master/contributing.md)
 
+
+
+
 When submitting an issue, please follow the [guidelines](https://github.com/yeoman/yeoman/blob/master/contributing.md#issue-submission). Especially important is to make sure Yeoman is up-to-date, and providing the command or commands that cause the issue.
 
 ## License
